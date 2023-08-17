@@ -105,7 +105,6 @@ MonoBehaviour:
     serializedHasVolumes:
     - sceneGUID: 9fc0d4010bbf28b4594072e72b8655ab
       hasProbeVolumes: 1
-      cefea14de159a5e29d274a9efdaf2fcbf7b4c7b8
     serializedProfiles:
     - sceneGUID: 9fc0d4010bbf28b4594072e72b8655ab
       profile: {fileID: 11400000, guid: b84794c8628bd794e88777c29b54be95, type: 2}
